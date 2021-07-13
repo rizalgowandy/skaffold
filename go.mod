@@ -27,7 +27,7 @@ require (
 	github.com/cenkalti/backoff/v4 v4.0.2
 	github.com/docker/cli v20.10.0-beta1.0.20201117192004-5cc239616494+incompatible
 	github.com/docker/distribution v2.7.1+incompatible
-	github.com/docker/docker v20.10.0-beta1.0.20201110211921-af34b94a78a1+incompatible
+	github.com/docker/docker v20.10.7+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/docker/go-metrics v0.0.1 // indirect
 	github.com/dustin/go-humanize v1.0.0
